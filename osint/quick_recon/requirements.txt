@@ -6,3 +6,4 @@ colorama
 bs4
 StringGenerator
 pysocks
+twisted>=24.7.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
